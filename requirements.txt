@@ -20,7 +20,7 @@ opencv-python
 pandas
 pdfplumber
 Pillow
-protobuf==3.20.0
+protobuf==3.20.2
 python-docx
 PyYAML
 requests
