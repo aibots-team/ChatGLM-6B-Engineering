@@ -123,7 +123,7 @@ soupsieve==2.4
 sse-starlette==1.5.0
 sseclient==0.0.27
 starlette==0.26.1
-streamlit==1.22.0
+streamlit==1.30.0
 streamlit-chat==0.0.2.2
 supervision==0.6.0
 sympy==1.11.1
