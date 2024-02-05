@@ -122,7 +122,7 @@ sortedcontainers==2.4.0
 soupsieve==2.4
 sse-starlette==1.5.0
 sseclient==0.0.27
-starlette==0.26.1
+starlette==0.36.2
 streamlit==1.22.0
 streamlit-chat==0.0.2.2
 supervision==0.6.0
