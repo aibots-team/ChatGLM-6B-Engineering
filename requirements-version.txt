@@ -29,7 +29,7 @@ entrypoints==0.4
 et-xmlfile==1.1.0
 exceptiongroup==1.1.1
 fairscale==0.4.4
-fastapi==0.94.1
+fastapi==0.109.1
 ffmpeg-python==0.2.0
 ffmpy==0.3.0
 filelock==3.10.0
