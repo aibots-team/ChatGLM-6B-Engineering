@@ -103,7 +103,7 @@ PySocks==1.7.1
 pyte==0.8.1
 python-dateutil==2.8.2
 python-docx==0.8.11
-python-multipart==0.0.6
+python-multipart==0.0.7
 pytz==2022.7.1
 pytz-deprecation-shim==0.1.0.post0
 PyYAML==6.0
